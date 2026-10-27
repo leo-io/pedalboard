@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "trk_bf1fb5b04e6b",
+  "artist": "Groove Collective",
+  "title": "I Want You (She's So Heavy) - Eric Kupper Remix",
+  "artist_slug": "groove_collective",
+  "title_slug": "i_want_you_she_s_so_heavy_eric_kupper",
+  "created": "2026-10-26T01:09:41",
+  "files": [
+    {
+      "role": "main",
+      "path": "i_want_you_she_s_so_heavy_eric_kupper_groove_collective.flac",
+      "format": "flac",
+      "duration": 665.71,
+      "bitrate": 956594,
+      "sample_rate": 44100,
+      "bits": 16,
+      "original_path": "C:\\Users\\user\\music_library\\library\\_inbox\\_soulseek_downloads\\02. Groove Collective - I Want You (She's So Heavy) (Eric Kupper Remix).flac",
+      "batch": "20261026-010938",
+      "imported": "2026-10-26T01:09:41"
+    }
+  ],
+  "source_tags": {
+    "artist": "Groove Collective",
+    "title": "I Want You (She's So Heavy) - Eric Kupper Remix"
+  }
+}
